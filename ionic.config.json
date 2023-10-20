@@ -1,0 +1,7 @@
+{
+  "name": "jain-practice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
